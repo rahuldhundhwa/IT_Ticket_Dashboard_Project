@@ -51,7 +51,5 @@ The goal was to optimize IT helpdesk operations by identifying bottlenecks, impr
 ---
 
 ## 📊 Dashboard Preview
-*(Add a screenshot if possible)*  
-You can upload a PNG/JPG of your Excel dashboard and embed it here:
-```markdown
-![IT Ticket Dashboard Screenshot](dashboard_preview.png)
+<img width="1378" height="790" alt="Screenshot 2025-10-15 122315" src="https://github.com/user-attachments/assets/73354117-c4b5-4db1-be4c-d47e4337aaed" />
+
